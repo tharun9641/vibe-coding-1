@@ -94,3 +94,4 @@ src/
   overlay/             Loader, captions, progress HUD, magnetic CTA, static page
 public/poster.webp     Fallback frame and share image
 ```
+# vibe-coding-1
